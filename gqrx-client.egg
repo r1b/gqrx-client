@@ -1,0 +1,8 @@
+((components
+   (extension gqrx-client))
+ (version 1.0)
+ (license "BSD")
+ (author "Robert C Jensen")
+ (synopsis "Client for gqrx remote control over TCP")
+ (dependencies)
+ (test-dependencies test))
